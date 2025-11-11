@@ -57,19 +57,19 @@ user-management-api/
 
 # 🛠️ Setup & Installation
 
-1. Clone or extract the project
+1. **Clone or extract the project**
 
 ```bash
 cd user-management-api
 ```
 
-2. Install dependencies
+2. **Install dependencies**
 
 ```bash
 npm install
 ```
 
-3. Start the server
+3. **Start the server**
 
 ```bash
 npm start
@@ -80,7 +80,7 @@ or
 node server.js
 ```
 
-4. Server Output
+4. **Server Output**
 
 ✅ Database initialized
 
@@ -88,7 +88,7 @@ node server.js
 
 ---
 
-5. The API will be live at
+5. **The API will be live at**
 
 👉 http://localhost:3000
 
