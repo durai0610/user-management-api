@@ -83,6 +83,7 @@ node server.js
 4. Server Output
 
 ✅ Database initialized
+
 🚀 Server running on port 3000
 
 ---
