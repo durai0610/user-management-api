@@ -74,7 +74,7 @@ npm install
 ```bash
 npm start
 ```
-or
+  or
 
 ```bash
 node server.js
